@@ -7,6 +7,6 @@ package util
  */
 object SystemConfig {
 
-  val LINKAGE_DATA = "E:\\WORK\\DATA_SET\\chapter2"
+  val LINKAGE_DATA = "E:\\WORK\\DATASET\\chapter2"
 
 }
